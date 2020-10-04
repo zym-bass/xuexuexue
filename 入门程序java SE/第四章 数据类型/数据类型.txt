@@ -1,0 +1,50 @@
+1.数据类型
+数据类型不同 类型不同 大小空间不同
+
+四大类 8小种
+第一类：整数型
+bayt short int long
+第二类：浮点型
+float duoble
+第三类：布尔型
+boolean:true(真) false(假)
+第四类：字符型
+char:必须是单引号 单个字符
+
+8小种：
+byte,short,int,long
+float,duoble
+char
+	
+数据类型名        字节
+----------------------------------------------
+byte                   1     -128~127
+short                  2     -32768~32867
+int                      4     -2147483648~2147483647
+long                   8
+float                   4
+double               8
+boolean             1      
+char                   2      0~65535
+
+字符串型String属于引用数据类型
+String字符串不属于基本数据类型范畴
+Java中除了基本数据类型之外，剩余都是引用数据类型。
+引用数据类型后期在接触面对对象的时候才会接触。
+
+编码和解码的时候必须采用同一套字符编方式，不然就会出现乱码。
+
+Java采用unicode编码    也就是UTF-8 ，UTF-16，UTF-32
+
+
+ASCII   （‘a’97      ‘A’65         ‘0’48）
+ISO-8859-1（latin-1）
+GB2312
+GBK
+GB18030
+Big5
+Unicode（UTF-8 UTF-16 UTF-32）
+
+
+
+	

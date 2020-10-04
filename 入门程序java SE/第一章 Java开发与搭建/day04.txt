@@ -1,0 +1,5 @@
+1.path环境变量的作用：path环境变量使给Windows操作系统指路
+2.运行Java程序的步骤
+	一：先使用cmd命令把.java文件转换为.class文件
+	二：再用cmd命令中（ java 类名 ）  执行
+3.Java搭建开发环境变量 （两个） path     classpath(属于Java的专属环境变量)   java_home

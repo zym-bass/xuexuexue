@@ -1,0 +1,6 @@
+整型：int （四个字节）    long 
+浮点型：double float
+布尔型：true false
+字符型：char
+字符串型：String
+字节型 ：byte(字节) 一个字节 范围-128~~127
